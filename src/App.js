@@ -17,8 +17,7 @@ export default class Student extends Component {
         
         {/* <GetStudents />
         <Student />
-        <DeleteStudent />
-        <Create /> */}
+        <DeleteStudent /> */}
         
         
         <Routes>
